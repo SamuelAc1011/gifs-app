@@ -1,3 +1,8 @@
 {
-  "conventionalCommits.scopes": ["Estructura"]
+  "conventionalCommits.scopes": [
+    "Estructura"
+  ],
+  "cSpell.words": [
+    "gifs"
+  ]
 }
